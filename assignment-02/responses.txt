@@ -1,0 +1,5 @@
+1) A directory is like a folder on a computer and the holds the files that you want in the specific folder. For example, 
+the directory in my respitory is assignment-02 and the file attatched to that is responses.txt
+2) From what I understand about VCS it can be particularly usefull in coding and designing the website.
+3) I think my favorite artistic medium is just a website. I feel like I'm not super good with print or cinema, so I think throughout 
+this course it will be easiest for me to undersatnd a website, whether that is animated or not. 
