@@ -1,0 +1,172 @@
+#header{
+    background-image: url("../images/background2.jpg")
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 100px;
+    letter-spacing: 0.2em;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color:#9966FF;
+    color: White;
+    width: 100%;
+    overflow: auto;
+}
+
+#first-bar {
+    margin-top: 3em;
+    padding: 1em;
+}
+
+#title:hover {
+  letter-spacing: .7em;
+  color: #FFFFFF;
+}
+
+.titleBorder:hover{
+    background-color: #;
+    color: #FFFFFF;
+    text-indent: 11em;
+    font-family: Quicksand;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 620px;
+    font-family: Quicksand;
+}
+
+.content-paragraph::first-line{
+    font-size: 30px;
+    font-family: Merriweather;
+    line-height: 40px;
+}
+
+}
+
+.image {
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 25%;
+}
+
+img {
+    border: 7px inset #9966FF;
+}
+
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    margin-top: 0;
+    height: 4em;
+    width: 99%;
+    text-align: right;
+    font-family: Merriweather;
+    padding-right: 3em;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #000000;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+.site-name {
+    color: #9966FF;
+    margin: 1em .2em;
+    min-width: 6em;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    letter-spacing: 0.3em;
+    float: left;
+    font-weight: bold;
+}
+
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #9966FF;
+    color: #000000;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #FFF;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.8em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: #9966FF;
+}
+
+
+.dropdown:hover{
+    border-radius: 1em 1em 0em 0em;
+}
+
+#foundation:hover{
+    border-radius: 0em 0em 1em 1em;
+}
+
+footer {
+    width: 100%;
+    background-color: #9966FF;
+    height: 2em;
+    text-align: center;
+    font-family: Quicksand;
+    padding-top: 1em;
+}
+
+#footer-link {
+    color: #FFFFFF;
+    font-weight: bold;
+}
