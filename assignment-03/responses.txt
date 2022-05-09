@@ -1,0 +1,5 @@
+A DNS is basically a naming and sorting system. An IP address is a numerical system that identifies the network and location you are using when surfing the web. The DNS translates the domain into an IP address and that is why they work hand in hand with one another. Without the other they could not function. IP addresses are particularly useful when trying to track down a specific device.
+
+A cookie is basically just data. It is used to share information with other websites that are alike. They can also help increase the usability and function of a page.
+
+Protocol, Domain, and Path are the most important parts of a URL.
